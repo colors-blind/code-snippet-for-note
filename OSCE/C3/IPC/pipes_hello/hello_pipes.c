@@ -1,5 +1,7 @@
 // Note that ordinary pipes require a parent–child relationship between the communicating processes on both UNIX and Windows systems. This means that these pipes can be used only for communication between processes on the same machine.
 
+// In shell, pipe is used to connect the input and output of two processes.
+
 #include <sys/types.h>
 #include <stdio.h>
 #include <string.h>
