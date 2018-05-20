@@ -30,4 +30,4 @@
       
   ```
 
-3. The IPC ways: Pipe;Signal;Message;Semaphore;Socket
+3. The IPC ways: Pipe;Signal;Message;Semaphore;Socket;Shared-Memory
