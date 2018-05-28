@@ -8,7 +8,7 @@ int test_n_bit(int n, int num) {
 } 
 
 int set_n_bit_zero(int n, int num) {
-    return num & (0xFFFFFFFF ^ (1 << n)); 
+    return num & (~0x0 ^ (1 << n)); 
 }
 
 int set_n_bit_one(int n, int num) {
