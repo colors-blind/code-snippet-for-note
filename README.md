@@ -12,3 +12,5 @@ Note: All rights reserved by the original author
 
 - Building Open Source Network Security Tools
 - Programming Linux Hacker Tools Uncovered
+- Eloquent JavaScript 3rd edition
+- Learning Python Design Patterns, Second Edition
